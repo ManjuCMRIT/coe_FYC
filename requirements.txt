@@ -1,1 +1,8 @@
 
+# requirements.txt
+
+streamlit
+opencv-python-headless
+numpy
+Pillow
+fpdf
